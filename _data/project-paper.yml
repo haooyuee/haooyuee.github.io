@@ -1,0 +1,27 @@
+main:
+  - title: "BarlowTwins-CXR: Enhancing Chest X-Ray abnormality localization"
+    authors: "Haoyue Sheng, Linrui Ma, Jean-Francois Samson and Dianbo Liu"
+    conference: "Preprint"
+    pdf: "https://arxiv.org/pdf/2402.06499.pdf"
+    github: "https://github.com/haooyuee/BarlowTwins-CXR"
+    image: ./assets/img/barlowtwins-cxr.png
+    conference_short: 2024
+    comment: In our recent paper, "BarlowTwins-CXR," I introduced a novel dual-phase training framework that significantly advances medical image analysis. Initially employing BarlowTwins for pre-training to reduce feature redundancy, the study then seamlessly integrates the pre-trained model into a Faster R-CNN architecture, enhancing object detection capabilities in medical diagnostics.
+
+  - title: "LLM-based Text Summarization Generation"
+    page: "https://github.com/haooyuee/Generating_Text_Summary_GPT2"
+    image: ./assets/img/text-summary.png
+    conference_short: 2023
+    comment: "Explore large language model-based, automated text summarization techniques using CNN/Daily Mail datasets to fine-tune models such as GPT-2, T5, and GPT-3.5. Rigorous model performance evaluation and analysis through ROUGE and BERT scores and human feedback."
+
+  - title: "NHL shot analysis application platform"
+    page: "https://github.com/haooyuee/nhl-shot-analysis"
+    image: ./assets/img/nih.png
+    conference_short: 2022
+    comment: "Developed a goal prediction system from scratch, including data collection, preprocessing, feature engineering, and model training and deployment. Collected data using APIs, built robust pipelines to retrieval and pre-processing of shot datasets. Constructed a demo web page."
+
+  - title: "Movie review sentiment Analysis"
+    page: "https://github.com/haooyuee/Text-Sentiment-Analysis"
+    image: ./assets/img/senti-analysis.png
+    conference_short: 2022
+    comment: "Trained robust textual sentiment classification models using over one million textual data. Applied Natural Language Processing (NLP) techniques combined with machine learning and deep learning algorithms to systematically preprocess and emmbedding data. Performed careful hyperparameter tuning to optimize model performance and achieve 91% accuracy."
