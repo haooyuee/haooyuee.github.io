@@ -8,6 +8,12 @@ main:
     conference_short: 2024
     comment: In our recent paper, "BarlowTwins-CXR," I introduced a novel dual-phase training framework that significantly advances medical image analysis. Initially employing BarlowTwins for pre-training to reduce feature redundancy, the study then seamlessly integrates the pre-trained model into a Faster R-CNN architecture, enhancing object detection capabilities in medical diagnostics.
 
+  - title: "RAG Local Assistant Chatbot"
+    page: "https://github.com/haooyuee/RAG-with-Llama2"
+    image: ./assets/img/rag.png
+    conference_short: 2024
+    comment: "Developing a Retrieval-Augmented Generation (RAG) Local Assistant Chatbot using LLaMA2-7b, GEMMA-2b, LangChain, and Hugging Face Transformers for secure, offline functionality on personal computers. Create a user-friendly interface for the chatbot, package it with Docker for easy deployment and distribution."
+
   - title: "LLM-based Text Summarization Generation"
     page: "https://github.com/haooyuee/Generating_Text_Summary_GPT2"
     image: ./assets/img/text-summary.png
