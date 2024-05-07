@@ -1,10 +1,9 @@
 ---
 layout: homepage
 ---
-Actively looking for ML internship / full time roles for summer 2024.
 ## About Me
 
-I am a Master's student at Université de Montréal and Mila Quebec, privileged to be under the advice of Professor Dianbo Liu and Dr. Jean-Francois Samson. My collaboration with CIUSSS du Centre-Sud-de-l'Île-de-Montréal as a Data Scientist Research Intern allowed me to delve into the application of machine learning in healthcare, focusing particularly on employing computer vision for diagnostic aids. My research is centered on improving the localization of chest X-ray abnormalities through innovative cross-domain self-supervised learning techniques.
+I am a Master's graduate from Université de Montréal and Mila Quebec, privileged to be under the advice of Professor Dianbo Liu and Dr. Jean-Francois Samson. My collaboration with CIUSSS du Centre-Sud-de-l'Île-de-Montréal as a Data Scientist Research Intern allowed me to delve into the application of machine learning in healthcare, focusing particularly on employing computer vision for diagnostic aids. My research is centered on improving the localization of chest X-ray abnormalities through innovative cross-domain self-supervised learning techniques.
 
 Previously, I obtained my degree in Mechatronics Engineering at the University of Quebec. There, amidst the rigor of engineering principles and practices, I first encountered deep learning. This exposure not only broadened my understanding of technological potentials but also sparked a deep curiosity about its applications. I believe that the precision inherent in an engineer’s approach can seamlessly integrate with the innovation found in machine learning and artificial intelligence.
 

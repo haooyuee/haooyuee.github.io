@@ -28,6 +28,9 @@
       {% if item.page %} 
       <a href="{{ item.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
+      {% if item.github %} 
+      <a href="{{ item.github }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github</a>
+      {% endif %}
       {% if item.bibtex %} 
       <a href="{{ item.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}

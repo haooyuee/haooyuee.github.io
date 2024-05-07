@@ -2,8 +2,9 @@ main:
   - title: "BarlowTwins-CXR: Enhancing Chest X-Ray abnormality localization"
     authors: "Haoyue Sheng, Linrui Ma, Jean-Francois Samson and Dianbo Liu"
     conference: "Preprint"
-    pdf: "https://arxiv.org/pdf/2402.06499.pdf"
-    github: "https://github.com/haooyuee/BarlowTwins-CXR"
+    bibtex: "https://arxiv.org/abs/2402.06499"
+    pdf: "https://arxiv.org/pdf/2402.06499"
+    page: "https://github.com/haooyuee/BarlowTwins-CXR"
     image: ./assets/img/barlowtwins-cxr.png
     conference_short: 2024
     comment: In our recent paper, "BarlowTwins-CXR," I introduced a novel dual-phase training framework that significantly advances medical image analysis. Initially employing BarlowTwins for pre-training to reduce feature redundancy, the study then seamlessly integrates the pre-trained model into a Faster R-CNN architecture, enhancing object detection capabilities in medical diagnostics.
